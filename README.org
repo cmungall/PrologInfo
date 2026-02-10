@@ -1,9 +1,11 @@
 * Prolog Info -- the list
+
 ** Overview
 
 A list of implementations of Prolog, and of related languages (Lambda Prolog, Datalog, and beyond), and related resources.  A work in progress!
 
 ** Prolog
+
 *** Languages
 
 - [[https://ciao-lang.org/][Ciao Prolog]], "a modern Prolog implementation that builds up from a logic-based simple kernel designed to be portable, extensible, and modular."
@@ -21,6 +23,8 @@ A list of implementations of Prolog, and of related languages (Lambda Prolog, Da
 - [[https://logtalk.org/][Logtalk]], a declarative object-oriented logic programming language ([[https://x.com/LogtalkDotOrg][@LogtalkDotOrg]])
 
 - [[https://mercurylang.org/][Mercury]], "a logic/functional programming language." ([[https://x.com/MercuryLang][@MercuryLang]])
+
+- [[https://github.com/sasagawa888/nprolog][N-Prolog]], "an interpreter and compiler to be superset of ARITY/PROLOG(MS-DOS)" (Kenichi Sasagawa: [[https://x.com/KSasagawa888][X]], [[https://medium.com/@kenichisasagawa][Medium]])
 
 - [[https://github.com/ptarau/natlog][Natlog]] is a lightweight Prolog-like system (implemented in Python) designed to smoothly interoperate with deep learning tools like PyTorch, JAX, GPT.
 
@@ -56,6 +60,8 @@ A list of implementations of Prolog, and of related languages (Lambda Prolog, Da
 
 - [[https://github.com/juji-io/datalevin][Datalevin]], A simple, fast and versatile Datalog database.
 
+- [[https://github.com/samrose/datalox][Datalox]], A Datalog implementation in Elixir for building rule engines.
+
 - [[https://github.com/tonsky/datascript][DataScript]], Immutable database and Datalog query engine for Clojure, ClojureScript and JS.
 
 - [[https://www.datomic.com][Datomic]], "The fully transactional, cloud-ready, distributed database"
@@ -67,6 +73,8 @@ A list of implementations of Prolog, and of related languages (Lambda Prolog, Da
 - [[https://github.com/eqlog/eqlog][Eqlog]], Datalog with equality for rust.
 
 - [[https://harvardpl.github.io/formulog/][Formulog]], a "Datalog with support for SMT queries and first-order functional programming".
+
+- [[https://github.com/google/mangle][Mangle]], an extension of Datalog, for deductive database programming, with various extensions like aggregation, function calls and optional type-checking, from Google.
 
 - [[https://souffle-lang.github.io/][Soufflé]], "Logic Defined Static Analysis"
 
